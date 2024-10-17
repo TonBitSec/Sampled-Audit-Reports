@@ -1,5 +1,5 @@
 # TonBit Sampled Audit Reports
-TonBit is a sub-brand under <a href="https://bitslab.xyz/" title="BitsLab">BitsLab</a>.
+<a href="https://tonbit.xyz/" title="TonBit">TonBit</a> is a sub-brand under <a href="https://bitslab.xyz/" title="BitsLab">BitsLab</a>.
 
 BitsLab - Securing and Building Emerging Web3 Ecosystems
 
