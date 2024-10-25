@@ -13,7 +13,6 @@ The vision of BitsLab is to be a Web3 security organization respected by the ind
 | MeMeStore      |     TON - Tact     |     Coming soon
 | PixelSwap      |     TON - Tact     |     Coming soon
 | boomup      |     TON     |    Coming soon
-
 | Catizen Token      |     TON - Tact     |     <a href="http://tonbit.xyz/reports/20240828-Catizen-Jetton-Smart-Contract-Final-Audit-Report.pdf"><img width="20" src="./pdf.png" /></a>
 | Catizen Smart Contract      |     TON - Tact     |     <a href="http://tonbit.xyz/reports/20240828-Catizen-Smart-Contarct-Final-Audit-Report.pdf
 "><img width="20" src="./pdf.png" /></a>
