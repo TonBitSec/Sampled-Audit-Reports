@@ -13,6 +13,10 @@ The vision of BitsLab is to be a Web3 security organization respected by the ind
 | MeMeStore      |     TON - Tact     |     Coming soon
 | PixelSwap      |     TON - Tact     |     Coming soon
 | boomup      |     TON     |    Coming soon
+| UTonic      |     TON-FunC     |     <a href="https://tonbit.xyz/reports/20241012-UTonic-Final-Audit-Report.pdf"><img width="20" src="./pdf.png" /></a>
+| SecondLive-TON      |     TON-FunC     |     <a href="https://tonbit.xyz/reports/20240925-SecondLive-Ton-Final-Audit-Report.pdf"><img width="20" src="./pdf.png" /></a>
+| Tom-Pump      |     TON-FunC     |     <a href="https://tonbit.xyz/reports/20241023-TOM-PUMP-Final-Audit-Report.pdf"><img width="20" src="./pdf.png" /></a>
+| Ton-Staking      |     TON - Tact     |     <a href="https://tonbit.xyz/reports/20240930-Ton-Staking-Final-Audit-Report.pdf"><img width="20" src="./pdf.png" /></a>
 | TonUP      |     TON - Tact     |     <a href="https://tonbit.xyz/reports/TonUP-Smart-Contract-Final-Audit-Report.pdf"><img width="20" src="./pdf.png" /></a>
 | Hipo Finance      |     TON - FunC     |     <a href="https://scalebit.xyz/reports/Hipo-Finance-Audit-Report.pdf"><img width="20" src="./pdf.png" /></a>
 | Hipo      |     TON - FunC     |     <a href="https://scalebit.xyz/reports/Hipo-Finance-Audit-Report.pdf"><img width="20" src="./pdf.png" /></a>
