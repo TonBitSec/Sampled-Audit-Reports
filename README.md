@@ -7,10 +7,12 @@ The vision of BitsLab is to be a Web3 security organization respected by the ind
 
 | Audit Name                        |   Chain   |                                  Audit Report                                   |
 | :----------------------------- | :---------: | :-----------------------------------------------------------------------: |
-| Pump Hub      |     TON - Tact     |     Coming soon
-| MeMeStore      |     TON - Tact     |     Coming soon
-| PixelSwap      |     TON - Tact     |     Coming soon
-| boomup      |     TON     |    Coming soon
+| Fiva      |     TON     |      <a href="http://tonbit.xyz/reports/20250402-FIVA-Final-Audit-Report.pdf"><img width="20" src="./pdf.png" /></a>
+| Torch      |     TON     |      <a href="http://tonbit.xyz/reports/20250317-Torch-Final-Audit-Report.pdf"><img width="20" src="./pdf.png" /></a>
+| Pump Hub      |     TON - Tact     |      <a href="http://tonbit.xyz/reports/Pump-Hub-Audit-Report.pdf"><img width="20" src="./pdf.png" /></a>
+| MeMeStore      |     TON - Tact     |      <a href="http://tonbit.xyz/reports/20240708-MeMeStore-Final-Audit-Report.pdf"><img width="20" src="./pdf.png" /></a>
+| PixelSwap      |     TON - Tact     |      <a href="http://tonbit.xyz/reports/PixelSwap-Audit-Report.pdf"><img width="20" src="./pdf.png" /></a>
+| boomup      |     TON     |     <a href="http://scalebit.xyz/reports/Boomup-Final-Audit-Report.pdf"><img width="20" src="./pdf.png" /></a>
 | Catizen Token      |     TON - FunC     |     <a href="http://tonbit.xyz/reports/20240828-Catizen-Jetton-Smart-Contract-Final-Audit-Report.pdf"><img width="20" src="./pdf.png" /></a>
 | Catizen Smart Contract      |     TON - Tact     |     <a href="http://tonbit.xyz/reports/20240828-Catizen-Smart-Contarct-Final-Audit-Report.pdf"><img width="20" src="./pdf.png" /></a>
 | MiniTon      |     TON - Tact     |     <a href="http://tonbit.xyz/reports/20241025-Miniton-Smart-Contract-Final-Audit-Report.pdf"><img width="20" src="./pdf.png" /></a>
